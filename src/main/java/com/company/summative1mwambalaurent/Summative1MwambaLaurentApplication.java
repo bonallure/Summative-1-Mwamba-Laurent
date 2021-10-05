@@ -9,5 +9,4 @@ public class Summative1MwambaLaurentApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Summative1MwambaLaurentApplication.class, args);
 	}
-
 }
