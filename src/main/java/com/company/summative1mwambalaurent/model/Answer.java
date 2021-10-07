@@ -15,7 +15,8 @@ public class Answer {
         this.id = answerId++;
     }
 
-    public Answer(String answer){
+    public Answer(String question, String answer){
+        this.question = question;
         this.answer = answer;
         this.id = answerId++;
     }

@@ -24,12 +24,12 @@ public class QuoteAPI {
 
     public QuoteAPI(){
         // Generating 10 quotes
-        quoteList.add(new Quote("The greatest glory in living lies not in never failing, but in rising every time we fall.", "Nelson Mandela"));
+        quoteList.add(new Quote("The greatest glory in living lies not in never falling, but in rising every time we fall.", "Nelson Mandela"));
         quoteList.add(new Quote("If life were predictable it would cease to be life, and be without flavor.", "Eleanor Roosevelt"));
         quoteList.add(new Quote("Reality is wrong. Dreams are for real.", "Tupac Shakur"));
         quoteList.add(new Quote("It does not matter how slowly you go as long as you do not stop.", "Confucius"));
         quoteList.add(new Quote("Nothing is impossible, the word itself says, `I'm possible!'.", "Audrey Hepburn"));
-        quoteList.add(new Quote("I have learned over the years that when one's mind is mady up, this diminishes fear.", "Rosa Parks"));
+        quoteList.add(new Quote("I have learned over the years that when one's mind is made up, this diminishes fear.", "Rosa Parks"));
         quoteList.add(new Quote("Believe you can and you're halfway there.", "Theodore Roosevelt"));
         quoteList.add(new Quote("Try not to become a man of success. Rather become a man of value.", "Albert Einstein"));
         quoteList.add(new Quote("It is better to fail in originality than to succeed in imitation.", "Herman Melville"));
